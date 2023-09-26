@@ -1,0 +1,36 @@
+body
+{background-color: skyblue;
+}
+h1{
+color: red;	font-size: 40; font-style: revert-layer;text-align: center;
+}
+
+h2{color: greenyellow;}
+	
+.groupe1
+{background-color:whitesmoke;
+	color: white;
+	bordder: 4px solid black;
+	border-radius: 5%;
+	padding:3%;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+width: 30%;
+}
+
+
+.groupe2
+{border:4px solid red;
+	border-radius: 50%;
+	padding:100px;
+	margin-bottom:0%;
+	
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 7%;
+color: white;
+}
+
+.groupe1:hover{transform: scale(1.1);color: red;background-color: grey;}

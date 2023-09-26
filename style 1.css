@@ -1,0 +1,42 @@
+body
+{background-color: skyblue;
+}
+h1{
+color: red;	font-size: 40; font-style: revert-layer;text-align: center;
+}
+
+h2{color: greenyellow;}
+h3{color: darkblue;}
+div {border: 4px solid black;
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 5%;
+padding: 3%;
+	background-color: rebeccapurple;
+	color: white;
+border-radius: 3%;}
+
+
+	.groupe1
+	{background-color: darkred;}
+
+	.groupe2 {background-color: forestgreen;}
+
+.b1 {background-color:whitesmoke;
+	color: black;
+	bordder: none;
+	border-radius: 5px;
+	padding:10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease;
+	width: 150px;
+}
+
+.b1:hover
+{color: red;background-color: black;}
+
+
+
